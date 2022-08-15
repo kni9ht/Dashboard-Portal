@@ -13,6 +13,8 @@ Authentication is done using knox token
 
 **Server:** Python-Django
 
+**Server:** MySQL
+
 
 ## Installation
 
