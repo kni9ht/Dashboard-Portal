@@ -9,7 +9,7 @@ Authentication is done using knox token
 
 ## Tech Stack
 
-**Client:** ReactJs, MaterialUI, React-Bootstrap, react-chartjs-2
+**Client:** TypeScript, ReactJs, MaterialUI, React-Bootstrap, react-chartjs-2
 
 **Server:** Python-Django
 
