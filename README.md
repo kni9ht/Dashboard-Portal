@@ -1,5 +1,5 @@
 
-# Project Title
+# Dashboard-Portal
 
 This is full stack web application made using ReactJS and Django. 
 It have a dashboard made using Material UI and react-charts and React-Bootstrap. 
